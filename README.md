@@ -1,3 +1,4 @@
 # Experto en Pensamiento No Lineal
 ## 💡 El Enfoque: Ver lo Invisible, Resolver lo Imposible
-![Imagen1](images/imagenPersona.gif)
+
+<img src="images/imagenPersona.gif" alt="Imagen1" width="300" />
